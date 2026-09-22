@@ -71,6 +71,10 @@ I created a Tableau dashboard to visualize the churn patterns identified through
 [View the interactive Tableau dashboard]
 (https://public.tableau.com/views/TelcoCustomerChurnAnalysis_17899302339570/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+### Dashboard Preview
+
+![Telco Customer Churn Tableau Dashboard](tableau_dashboard.png)
+
 The dashboard includes:
 
 - Overall churn rate
